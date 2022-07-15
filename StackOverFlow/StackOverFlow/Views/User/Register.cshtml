@@ -1,0 +1,55 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_MinimalLayout.cshtml";
+}
+
+
+<div class="container p-3">
+    <div class="mt-5 text-center">
+        <h1 class="display-3">@ViewData["Title"] </h1>
+    </div>
+
+    <div class="mt-5">
+        @using (Html.BeginForm("Register", "User", FormMethod.Post, new { @id = "RegisterForm" }))
+        {
+            <div class="mt-3">
+                <label>Username:</label>
+                <div class="mt-1">
+                    @Html.TextBoxFor(model => model.UserName, new {@class="form-control" , Placeholder = "Enter Username" })
+                </div>
+            </div>
+            <div class="mt-3">
+                <label>Full Name:</label>
+                <div class="mt-1">
+                    @Html.TextBoxFor(model => model.FullName, new {@class="form-control", Placeholder = "Enter Fullname"})
+                </div>
+            </div>
+
+            <div class="mt-3">
+                <label>Email:</label>
+                <div class="mt-1">
+                    @Html.TextBoxFor(model => model.Email, new {@class="form-control", type="email" , Placeholder = "Enter Email"})
+                </div>
+            </div>
+            
+            <div class="mt-3">
+                <label>Address:</label>
+                <div class="mt-1">
+                    @Html.TextBoxFor(model => model.Address, new {@class="form-control", Placeholder = "City, Country"})
+                </div>
+            </div>
+
+            <div class="mt-3">
+                <label>Password:</label>
+                <div class="mt-1">
+                    @Html.TextBoxFor(model => model.Password, new {@class="form-control" , type="password", Placeholder = "Enter Password"})
+                </div>
+            </div>
+            <br />
+            <div class="text-center mt-2">
+                <button class="btn-outline-success btn" type="submit">Register</button> 
+            </div>
+        }
+    </div>
+</div>

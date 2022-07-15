@@ -1,0 +1,45 @@
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.deps.json
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.pdb
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.DataBase.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.DataBase.pdb
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.AssemblyReference.cache
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.AssemblyInfoInputs.cache
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.AssemblyInfo.cs
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.CoreCompileInputs.cache
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.CopyComplete
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\refint\StackOverFlow.Interfaces.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.pdb
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\ref\StackOverFlow.Interfaces.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.deps.json
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.DataBase.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.DataBase.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.AssemblyReference.cache
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.AssemblyInfoInputs.cache
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.AssemblyInfo.cs
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.CopyComplete
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\refint\StackOverFlow.Interfaces.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\ref\StackOverFlow.Interfaces.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.deps.json
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.Interfaces.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.DataBase.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\bin\Debug\net6.0\StackOverFlow.DataBase.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.AssemblyReference.cache
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.AssemblyInfoInputs.cache
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.AssemblyInfo.cs
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.CoreCompileInputs.cache
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.csproj.CopyComplete
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\refint\StackOverFlow.Interfaces.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\StackOverFlow.Interfaces.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Interfaces\obj\Debug\net6.0\ref\StackOverFlow.Interfaces.dll

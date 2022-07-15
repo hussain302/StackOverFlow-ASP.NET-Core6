@@ -1,0 +1,47 @@
+﻿@model BlogModel
+@{
+    ViewData["Title"] = "Delete Question";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div>
+    <div class="text-center">
+        <h1> Delete Question </h1>
+    </div>
+
+    <div>
+        <div class="bg-secondary">
+            <div class="row">
+                <div class="col-6">
+                    <h2> Title - User: @Model.User.UserName   </h2>
+                </div>
+                <div class="col-6">
+                    <p> @Model.Title </p>
+                </div>
+                <div class="col-6">
+                    <h2> Category:  </h2>
+                </div>
+                <div class="col-6">
+                    <p> @Model.Category.Name </p>
+                </div>
+                <div class="col-6">
+                    <h2> Details:  </h2>
+                </div>
+                <div class="col-6">
+                    <p> @Model.Description </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div>
+        <form asp-action="DeleteQuestion" asp-controller="Question" enctype="multipart/form-data">
+            <br />
+
+            @Html.Hidden("Id")
+
+            <button type="submit" class="btn btn-danger">Delete Question </button>
+        </form>
+    </div>
+</div>

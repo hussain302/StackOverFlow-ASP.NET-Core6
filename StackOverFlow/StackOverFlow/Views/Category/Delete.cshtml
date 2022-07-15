@@ -1,0 +1,29 @@
+﻿@model CategoryModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="bg-secondary">
+    <div class="row">
+        <div class="col-6">
+            <h2> Category:  </h2>
+        </div>
+        <div class="col-6">
+            <p> @Model.Name </p>
+        </div>
+        <div class="col-6">
+            <h2> Details:  </h2>
+        </div>
+        <div class="col-6">
+            <p> @Model.Description </p>
+        </div>
+    </div>
+</div>
+
+
+<form asp-action="Delete" asp-controller="Category">
+    @Html.Hidden("Id")<br /><br />
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>

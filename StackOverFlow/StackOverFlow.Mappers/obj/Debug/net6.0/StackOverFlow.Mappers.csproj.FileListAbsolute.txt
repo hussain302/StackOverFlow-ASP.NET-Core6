@@ -1,0 +1,51 @@
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.deps.json
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.pdb
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.DataBase.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.DataBase.pdb
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.AssemblyReference.cache
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.AssemblyInfoInputs.cache
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.AssemblyInfo.cs
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.CoreCompileInputs.cache
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.CopyComplete
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\refint\StackOverFlow.Mappers.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.pdb
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\ref\StackOverFlow.Mappers.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Models.dll
+D:\Work\FGS boys .NET\Code\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Models.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.deps.json
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.DataBase.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Models.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.DataBase.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Models.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.AssemblyReference.cache
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.AssemblyInfoInputs.cache
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.AssemblyInfo.cs
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.CopyComplete
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\refint\StackOverFlow.Mappers.dll
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.pdb
+C:\Users\GNG\Downloads\Compressed\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\ref\StackOverFlow.Mappers.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.deps.json
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Mappers.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.DataBase.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Models.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.DataBase.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\bin\Debug\net6.0\StackOverFlow.Models.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.AssemblyReference.cache
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.AssemblyInfoInputs.cache
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.AssemblyInfo.cs
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.CoreCompileInputs.cache
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.csproj.CopyComplete
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\refint\StackOverFlow.Mappers.dll
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\StackOverFlow.Mappers.pdb
+D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow.Mappers\obj\Debug\net6.0\ref\StackOverFlow.Mappers.dll

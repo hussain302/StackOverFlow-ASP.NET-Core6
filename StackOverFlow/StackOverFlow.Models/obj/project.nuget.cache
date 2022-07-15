@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/GoyTvZwR4vNWJwkDiGe/oOgBRGnMXE0+p0koifnu2LEj66DI92cBGoWXeupiYiS6Od1x3P2fT8osyNPj4I0g==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\MCS\\4th Semester\\Adv Software Development Tech\\Shawal Project\\StackOverFlow\\StackOverFlow.Models\\StackOverFlow.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RBTG V2\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\RBTG V2\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\RBTG V2\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

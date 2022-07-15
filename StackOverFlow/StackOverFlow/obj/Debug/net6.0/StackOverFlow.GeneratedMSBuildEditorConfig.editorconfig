@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StackOverFlow
+build_property.RootNamespace = StackOverFlow
+build_property.ProjectDir = D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Work\MCS\4th Semester\Adv Software Development Tech\Shawal Project\StackOverFlow\StackOverFlow
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Admin/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Category/Manage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTWFuYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Client/HTML.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEhUTUwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Client/Python.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFB5dGhvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Client/ViewAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFZpZXdBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Question/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cQWRkQ29tbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Question/AskQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cQXNrUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Question/DeleteQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRGVsZXRlUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Question/EditQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cRWRpdFF1ZXN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Question/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-2g1vw16q90
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ze0dndxf1a
+
+[D:/Work/MCS/4th Semester/Adv Software Development Tech/Shawal Project/StackOverFlow/StackOverFlow/Views/Shared/_MinimalLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NaW5pbWFsTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-xir4tx9j3z

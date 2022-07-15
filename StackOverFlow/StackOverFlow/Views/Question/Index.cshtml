@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BlogModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="text-center">
+    <h1> All Questions here <a class="btn-outline-info btn btn-sm" asp-action="AskQuestion" asp-controller="Question">Ask Question</a> </h1>
+</div>
+
+<div>
+    @foreach (var item in Model)
+    {
+        <div class="card mb-3" style="max-width: 30rem;">
+            <div class="card-header">@item.Title  - User : @item.User.UserName </div>
+            <div class="card-body">
+                <h4 class="card-title">@item.Category.Name</h4>
+                <p class="card-text">@item.Description</p>
+                <h3> Comments </h3>
+                
+                @if (item.Comment != null)
+                {
+                    <p>@item.Comment.MainComment</p>
+                }
+                else
+                {
+                    <p> No Comments to show </p>
+                }
+            </div>
+
+            <a class="btn-warning btn" asp-action="EditQuestion" asp-controller="Question" asp-route-id="@item.Id"> Edit </a>
+            <a class="btn-danger btn" asp-action="DeleteQuestion" asp-controller="Question" asp-route-id="@item.Id"> Delete </a>
+
+        </div>
+    }
+</div>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<CategoryModel>
+@{
+    ViewData["Title"] = "Manage Categories";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div>
+    <div class="text-center">
+        <h1> @ViewData["Title"] </h1>
+        <a asp-action="Create" asp-controller="Category" class="btn-primary btn">Create Category</a>
+    </div>
+    <div>
+        <table class="table table-hover table-borderless">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th>@item.Id</th>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>
+                            <a class="text-warning" asp-route-id="@item.Id" asp-action="Edit" asp-controller="Category">Edit</a>
+                            <a class="text-danger" asp-route-id="@item.Id" asp-action="Delete" asp-controller="Category">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

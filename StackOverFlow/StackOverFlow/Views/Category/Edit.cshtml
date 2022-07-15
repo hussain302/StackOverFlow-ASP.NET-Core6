@@ -1,0 +1,25 @@
+﻿@model CategoryModel
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form asp-action="Edit" asp-controller="Category">
+    @Html.Hidden("Id")
+    <fieldset>
+        <legend>Legend</legend>
+        <div class="form-group row">
+            <label for="staticEmail" class="col-sm-2 col-form-label">Category Name</label>
+            <div class="col-sm-10">
+                <input type="text" asp-for="Name" class="form-control-plaintext" id="staticEmail" placeholder="Enter Category Name">
+            </div>
+        </div>
+       <div class="form-group row">
+            <label for="staticEmail" class="col-sm-2 col-form-label">Category Name</label>
+            <div class="col-sm-10">
+                <input type="text" asp-for="Description" class="form-control-plaintext" id="staticEmail" placeholder="Enter Description">
+            </div>
+        </div><br /><br />
+        <button type="submit" class="btn btn-success">Update</button>
+    </fieldset>
+</form>
